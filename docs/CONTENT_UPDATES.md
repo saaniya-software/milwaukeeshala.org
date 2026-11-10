@@ -82,7 +82,7 @@ Needs Vercel env:
 
 - `CONTENT_PUBLISH_SECRET` (or optional `ADMIN_PASSWORD`) — admin login password  
 - `GITHUB_CONTENT_TOKEN` — GitHub PAT with `contents:write` on this repo  
-- Optional: `GITHUB_CONTENT_REPO` (default `drneeraja2025/milwaukeeshala.org`), `GITHUB_CONTENT_BRANCH` (default `main`)
+- Optional: `GITHUB_CONTENT_REPO` (default `saaniya-software/milwaukeeshala.org`), `GITHUB_CONTENT_BRANCH` (default `main`)
 
 API still accepts `Authorization: Bearer <same password>` for scripts.
 

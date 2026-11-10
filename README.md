@@ -17,10 +17,10 @@ npm run dev
 
 ## Deploy
 
-- Vercel team: `nas25` (`team_lHXh86Jypc6v6Hnt9vJgsH9A`)
+- Vercel team: `saaniya-software` (`team_lHXh86Jypc6v6Hnt9vJgsH9A`)
 - Vercel project: `milwaukeeshala-org`
 - Production URL: https://milwaukeeshala-org.vercel.app
-- GitHub: https://github.com/drneeraja2025/milwaukeeshala.org
+- GitHub: https://github.com/saaniya-software/milwaukeeshala.org
 
 Domains `milwaukeeshala.org` and `www.milwaukeeshala.org` are attached on Vercel. Keep Squarespace nameservers; only update DNS records.
 

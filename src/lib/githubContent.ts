@@ -12,7 +12,7 @@ function requireEnv(name: string): string {
 }
 
 function repoParts(): { owner: string; repo: string } {
-  const full = process.env.GITHUB_CONTENT_REPO || "drneeraja2025/milwaukeeshala.org";
+  const full = process.env.GITHUB_CONTENT_REPO || "saaniya-software/milwaukeeshala.org";
   const [owner, repo] = full.split("/");
   if (!owner || !repo) throw new Error("GITHUB_CONTENT_REPO must be owner/repo");
   return { owner, repo };
